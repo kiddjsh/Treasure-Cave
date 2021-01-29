@@ -38,22 +38,22 @@ A list of things that can be found in the cave:
 8.	Cave Exit
 
 # Character
-1.	Adventurer: Sword – wielding warrior that feels no pain, is fearless in the face of the enemy and can withstand tremendous punishment.
+Adventurer: Sword – wielding warrior that feels no pain, is fearless in the face of the enemy and can withstand tremendous punishment.
 
 # Enemies
 Enemies appear on screen from either the top, bottom, right or left side.
 1.	Thief:
-a.	Enemy will start in a specific position within the cave.
-b.	Enemy will be invisible to the player at the start of game.
-c.	Enemy will be invisible to player if Torch is found.
-d.	Enemy is only visible to the player if the Eye is found.
-e.	With each move of the player, thief will make a random move.
-f.	Enemy will attack player as soon as player is in range. 
-i.	If player dies when attacked game is over.
-g.	Enemy can attack monster if encountered. 
-i.	If thief or monster dies, game continues.
-h.	Enemy can find treasure. 
-i.	If found game is over.
+    a.	Enemy will start in a specific position within the cave.
+    b.	Enemy will be invisible to the player at the start of game.
+    c.	Enemy will be invisible to player if Torch is found.
+    d.	Enemy is only visible to the player if the Eye is found.
+    e.	With each move of the player, thief will make a random move.
+    f.	Enemy will attack player as soon as player is in range. 
+        i.	If player dies when attacked game is over.
+    g.	Enemy can attack monster if encountered. 
+        i.	If thief or monster dies, game continues.
+    h.	Enemy can find treasure. 
+        i.	If found game is over.
 
 2.	Monster:
 a.	Enemy will be positioned within the cave along with the treasure.
