@@ -59,5 +59,12 @@ The following are list of responses that the player may encounter during game pl
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Pseudocode.PNG)
 
 # Game Play
+![Player Finds Torch](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Torch.PNG)
+![Player Finds Monster](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Monster.PNG)
+![Player Finds Weapon](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Weapon.PNG)
+![Player Finds Eye](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Eye.PNG)
+![Thief Kills Monster](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Thief%20Kills%20Monster.PNG)
+![Player Kills Thief](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Kills%20Thief.PNG)
+![Player Finds Treasure](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Treasure.PNG)
 
 
