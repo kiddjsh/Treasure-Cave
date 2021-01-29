@@ -43,7 +43,7 @@ Adventurer: Sword – wielding warrior that feels no pain, is fearless in the fa
 # Enemies
 Enemies appear on screen from either the top, bottom, right or left side.
 1.	Thief
-    1.1. Enemy will start in a specific position within the cave.
+1.1. Enemy will start in a specific position within the cave.
 
 
 
