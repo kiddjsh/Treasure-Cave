@@ -74,6 +74,6 @@ i.	If thief or monster dies, game continues.
 i.	Monster cannot interact with treasure.
 
 # Pseudocode
-
+![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Pseudocode.PNG)
 
 
