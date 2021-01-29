@@ -21,6 +21,7 @@ The ideal user has the following characteristics:
 # Game Flow
 Actions that the player can perform are:
 1.	Move west (a) and east (d).
+    1.1 dhfgn
 2.	Move north (w) and south (s).
 3.	Make an irritating noise (n).
 4.	Attack once.
