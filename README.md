@@ -59,12 +59,26 @@ The following are list of responses that the player may encounter during game pl
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Pseudocode.PNG)
 
 # Game Play
+
+Player finds torch, reveals all objects except thief and eye
 ![Player Finds Torch](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Torch.PNG)
+
+Player has no weapon, finds monster, moves back two spaces
 ![Player Finds Monster](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Monster.PNG)
+
+Player finds weapon
 ![Player Finds Weapon](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Weapon.PNG)
+
+Player finds eye, reveals location of thief
 ![Player Finds Eye](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Eye.PNG)
+
+Thief kills monster
 ![Thief Kills Monster](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Thief%20Kills%20Monster.PNG)
+
+Player kills thief
 ![Player Kills Thief](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Kills%20Thief.PNG)
+
+Player finds treasure, game over
 ![Player Finds Treasure](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Treasure.PNG)
 
 
