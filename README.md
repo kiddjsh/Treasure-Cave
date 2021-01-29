@@ -21,7 +21,6 @@ The ideal user has the following characteristics:
 # Game Flow
 Actions that the player can perform are:
 1.	Move west (a) and east (d).
-    1.1 dhfgn
 2.	Move north (w) and south (s).
 3.	Make an irritating noise (n).
 4.	Attack once.
@@ -43,21 +42,6 @@ Adventurer: Sword – wielding warrior that feels no pain, is fearless in the fa
 
 # Enemies
 Enemies appear on screen from either the top, bottom, right or left side.
-
--Thief:
---Enemy will start in a specific position within the cave.
---Enemy will be invisible to the player at the start of game.
---Enemy will be invisible to player if Torch is found.
---With each move of the player, thief will make a random move.
---Enemy will attack player as soon as player is in range. 
----If player dies when attacked game is over.
---Enemy can attack monster if encountered. 
----If thief or monster dies, game continues.
---Enemy can find treasure. 
----If found game is over.
-
-
-
 
 # Responses
 The following are list of responses that the player may encounter during game play:
