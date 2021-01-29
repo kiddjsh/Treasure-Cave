@@ -43,17 +43,17 @@ Adventurer: Sword – wielding warrior that feels no pain, is fearless in the fa
 # Enemies
 Enemies appear on screen from either the top, bottom, right or left side.
 1.	Thief:
-    a.	Enemy will start in a specific position within the cave.
-    b.	Enemy will be invisible to the player at the start of game.
-    c.	Enemy will be invisible to player if Torch is found.
-    d.	Enemy is only visible to the player if the Eye is found.
-    e.	With each move of the player, thief will make a random move.
-    f.	Enemy will attack player as soon as player is in range. 
-        i.	If player dies when attacked game is over.
-    g.	Enemy can attack monster if encountered. 
-        i.	If thief or monster dies, game continues.
-    h.	Enemy can find treasure. 
-        i.	If found game is over.
+    1.1.    Enemy will start in a specific position within the cave.
+    1.2.	Enemy will be invisible to the player at the start of game.
+    1.3.	Enemy will be invisible to player if Torch is found.
+    1.4.	Enemy is only visible to the player if the Eye is found.
+    1.5.	With each move of the player, thief will make a random move.
+    1.5.1.	Enemy will attack player as soon as player is in range. 
+    1.5.2.	If player dies when attacked game is over.
+    1.6.	Enemy can attack monster if encountered. 
+    1.6.1.	If thief or monster dies, game continues.
+    1.7.	Enemy can find treasure. 
+    1.7.1.	If found game is over.
 
 2.	Monster:
 a.	Enemy will be positioned within the cave along with the treasure.
@@ -75,15 +75,15 @@ i.	Monster cannot interact with treasure.
 
 # Responses
 The following are list of responses that the player may encounter during game play:
-“You have moved to position {Row}{Column},” Used whenever the player has successfully moved to a new location using a move command. 
-“You cannot walk through walls.” Used whenever the player tries to move off the board.
-“You have found the {Object}.” Used when the player finds the weapon, noisemaker, torch, or eye.
-“You make an irritating noise.” Used when the player uses the n command if he or she has found the noisemaker. This command also stops the monster for a random but short amount of time.
-“You make a feeble whimper.” Used when the player uses the n command but hasn’t found the noisemaker.
-“You have been eaten by a Grue! Game over.” Used when the player is killed by the monster.
-“You are attacked but slay the monster with your weapon.” Used when the player kills the monster.
-“You managed to survive the monster’s attack.” Used when neither the player nor the monster are killed during combat.
-“You have found the Treasure. Great job! Game over.” Used when the player is in the same position as the treasure.
+1. “You have moved to position {Row}{Column},” Used whenever the player has successfully moved to a new location using a move command. 
+2. “You cannot walk through walls.” Used whenever the player tries to move off the board.
+3. “You have found the {Object}.” Used when the player finds the weapon, noisemaker, torch, or eye.
+4. “You make an irritating noise.” Used when the player uses the n command if he or she has found the noisemaker. This command also stops the monster for a random but short amount of time.
+5. “You make a feeble whimper.” Used when the player uses the n command but hasn’t found the noisemaker.
+6. “You have been eaten by a Grue! Game over.” Used when the player is killed by the monster.
+7. “You are attacked but slay the monster with your weapon.” Used when the player kills the monster.
+8. “You managed to survive the monster’s attack.” Used when neither the player nor the monster are killed during combat.
+9. “You have found the Treasure. Great job! Game over.” Used when the player is in the same position as the treasure.
 
 # Pseudocode
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Pseudocode.PNG)
