@@ -73,6 +73,18 @@ h.	Thief can attack monster if encountered.
 i.	If thief or monster dies, game continues.
 i.	Monster cannot interact with treasure.
 
+# Responses
+The following are list of responses that the player may encounter during game play:
+“You have moved to position {Row}{Column},” Used whenever the player has successfully moved to a new location using a move command. 
+“You cannot walk through walls.” Used whenever the player tries to move off the board.
+“You have found the {Object}.” Used when the player finds the weapon, noisemaker, torch, or eye.
+“You make an irritating noise.” Used when the player uses the n command if he or she has found the noisemaker. This command also stops the monster for a random but short amount of time.
+“You make a feeble whimper.” Used when the player uses the n command but hasn’t found the noisemaker.
+“You have been eaten by a Grue! Game over.” Used when the player is killed by the monster.
+“You are attacked but slay the monster with your weapon.” Used when the player kills the monster.
+“You managed to survive the monster’s attack.” Used when neither the player nor the monster are killed during combat.
+“You have found the Treasure. Great job! Game over.” Used when the player is in the same position as the treasure.
+
 # Pseudocode
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Pseudocode.PNG)
 
