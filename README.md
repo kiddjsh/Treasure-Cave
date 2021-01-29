@@ -58,4 +58,6 @@ The following are list of responses that the player may encounter during game pl
 # Pseudocode
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Pseudocode.PNG)
 
+# Game Play
+
 
