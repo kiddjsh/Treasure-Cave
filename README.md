@@ -42,36 +42,10 @@ Adventurer: Sword – wielding warrior that feels no pain, is fearless in the fa
 
 # Enemies
 Enemies appear on screen from either the top, bottom, right or left side.
-1.	Thief:
-    1.1.    Enemy will start in a specific position within the cave.
-    1.2.	Enemy will be invisible to the player at the start of game.
-    1.3.	Enemy will be invisible to player if Torch is found.
-    1.4.	Enemy is only visible to the player if the Eye is found.
-    1.5.	With each move of the player, thief will make a random move.
-    1.5.1.	Enemy will attack player as soon as player is in range. 
-    1.5.2.	If player dies when attacked game is over.
-    1.6.	Enemy can attack monster if encountered. 
-    1.6.1.	If thief or monster dies, game continues.
-    1.7.	Enemy can find treasure. 
-    1.7.1.	If found game is over.
+1.	Thief
+    1.1. Enemy will start in a specific position within the cave.
 
-2.	Monster:
-a.	Enemy will be positioned within the cave along with the treasure.
-b.	Enemy will be invisible to the player at the start of game.
-c.	Enemy will be visible to player if Torch is found.
-d.	Enemy will be visible to the player if the Eye is found before Torch.
-e.	Enemy will stop moving if noise maker is found and used. 
-i.	The enemy will stop for at least one turn, 
-   then has 1 out of 3 chances to move again.
-f.	With each move of the player, enemy will make a move around the treasure.
-g.	Enemy will attack player as soon as player is in range. 
-i.	If player finds monster and has no weapon, 
-   player will move back two spaces.
-ii.	If monster finds player and player has no weapon, player dies, game over.
-iii.	If player has weapon and dies when attacked game is over.
-h.	Thief can attack monster if encountered. 
-i.	If thief or monster dies, game continues.
-i.	Monster cannot interact with treasure.
+
 
 # Responses
 The following are list of responses that the player may encounter during game play:
