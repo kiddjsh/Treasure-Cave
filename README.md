@@ -73,4 +73,46 @@ h.	Thief can attack monster if encountered.
 i.	If thief or monster dies, game continues.
 i.	Monster cannot interact with treasure.
 
+# Pseudocode
+// TREASURE CAVE
+// Global Constants
+// Function Prototypes
+//**Initialize Variables**
+//**Prepare Cave**********
+//...Initialize an empty cave
+//...Add Player somewhere in row 0-2, columns 0-2
+//...Add Treasure somewhere in rows 4-6, columns 1-6
+//...Add Monster at treasure row + 1, column -1
+//...Add Weapon in any empty location
+//...Add Noise-maker in any empty location
+//...Add Torch in any empty location
+//...Add Cave Exit in any empty location
+//**Play Game*************
+//...Begin Game Loop
+//....Get movement command
+//....Move Player
+//....Check for events
+//.....If exit found
+//......set flag to exit game loop
+//.....If treasure found
+//......set flag to show player has treasure
+//.....If weapon found
+//......set flag to show player has weapon
+//.....If noise-maker found
+//......set flag to show player has noise-maker
+//.....If torch found
+//......set flag to show player has torch
+//.....If monster found
+//......Resolve combat
+//....Move Monster
+//....Check for events
+//.....If player found
+//......Resolve combat
+//....Display results
+//...End Game Loop
+//**End Game**************
+//...Provide end message
+//...Do clean-up
+//...Quit
+
 
