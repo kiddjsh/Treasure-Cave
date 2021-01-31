@@ -1,8 +1,7 @@
-# Welcome to Treasure Cave
-![Game Start]()
-
 # Treasure-Cave
-Treasure Cave is a text-based maze style adventure game, played out a 2D model board (or virtual map), taking  place in a dark mysterious cave of an unknown location. Rumors spread of a treasure beyond your wildest dream  guarded by a gruesome monster, while seekers go searching and never return. The cave is rumored to hold  weapons of other adventures who never returned; a sword, a torch, a noise maker and a magical eye; as well as  a monster, a treasure and an elusive enemy. To win, you must find the treasure and exit the cave. If the  monster kills you, you lose.
+Treasure Cave is a text-based maze style adventure game, played out a 2D model board (or virtual map), taking  place in a dark mysterious cave of an unknown location. Rumors spread of a treasure beyond your wildest dream  guarded by a gruesome monster, while seekers go searching and never return. The cave is rumored to hold  weapons of other adventures who never returned; a sword, a torch, a noise maker and a magical eye; as well as  a monster, a treasure and an elusive enemy. To win, you must find the treasure and exit the cave. If the  monster kills you, you lose.-
+
+![Game Start](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Game%20Start.PNG)
 
 # Design Goals
 The game aims to achieve the following goals:
