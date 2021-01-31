@@ -1,0 +1,2 @@
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\Debug\treasureCave_maze.exe
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\Debug\treasureCave_maze.pdb

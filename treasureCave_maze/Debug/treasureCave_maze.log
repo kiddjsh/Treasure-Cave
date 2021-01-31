@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\main.cpp(38,18): warning C4309: 'initializing': truncation of constant value
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\main.cpp(39,17): warning C4309: 'initializing': truncation of constant value
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\main.cpp(40,18): warning C4309: 'initializing': truncation of constant value
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\main.cpp(41,17): warning C4309: 'initializing': truncation of constant value
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\main.cpp(42,18): warning C4309: 'initializing': truncation of constant value
+E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\main.cpp(43,18): warning C4309: 'initializing': truncation of constant value
+  treasureCave_maze.vcxproj -> E:\Users\KidderJoshua\Documents\Visual Studio 2019\treasureCave_maze\Debug\treasureCave_maze.exe
