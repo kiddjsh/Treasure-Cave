@@ -1,3 +1,8 @@
+# Game Design Document
+
+
+
+
 # Treasure-Cave
 Treasure Cave is a text-based maze style adventure game, played out a 2D model board (or virtual map), taking  place in a dark mysterious cave of an unknown location. Rumors spread of a treasure beyond your wildest dream  guarded by a gruesome monster, while seekers go searching and never return. The cave is rumored to hold  weapons of other adventures who never returned; a sword, a torch, a noise maker and a magical eye; as well as  a monster, a treasure and an elusive enemy. To win, you must find the treasure and exit the cave. If the  monster kills you, you lose.-
 
@@ -44,6 +49,38 @@ Adventurer: Sword – wielding warrior that feels no pain, is fearless in the fa
 
 # Enemies
 Enemies appear on screen from either the top, bottom, right or left side.
+
+1.	Thief:
+    - Enemy will start in a specific position within the cave.
+    - Enemy will be invisible to the player at the start of game.
+    - Enemy will be invisible to player if Torch is found.
+    - Enemy is only visible to the player if the Eye is found.
+    - With each move of the player, thief will make a random move.
+    - Enemy will attack player as soon as player is in range. 
+      - If player dies when attacked game is over.
+    - Enemy can attack monster if encountered. 
+      - If thief or monster dies, game continues.
+    - Enemy can find treasure. 
+      - If found game is over.
+
+2.	Monster:
+    - Enemy will be positioned within the cave along with the treasure.
+    - Enemy will be invisible to the player at the start of game.
+    - Enemy will be visible to player if Torch is found.
+    - Enemy will be visible to the player if the Eye is found before Torch.
+    - Enemy will stop moving if noise maker is found and used. 
+      - The enemy will stop for at least one turn, 
+        then has 1 out of 3 chances to move again.
+    - With each move of the player, enemy will make a move around the treasure.
+    - Enemy will attack player as soon as player is in range. 
+      - If player finds monster and has no weapon, 
+        player will move back two spaces.
+      - If monster finds player and player has no weapon, player dies, game over.
+      - If player has weapon and dies when attacked game is over.
+    - Thief can attack monster if encountered. 
+      - If thief or monster dies, game continues.
+    - Monster cannot interact with treasure.
+
 
 # Responses
 The following are list of responses that the player may encounter during game play:
