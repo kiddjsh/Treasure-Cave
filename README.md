@@ -9,8 +9,8 @@ The game aims to achieve the following goals:
     of Treasure Cave.
 2. Serve as a prototype and first level of an ongoing serialized 2D adventure style game.
 3. Develop a fun gameplay experience, based on:
-a. Discovery – player discovers the cave, obstacles, and treasure that awaits.
-b. Power – the game is about finding the treasure, fighting your enemies and   
+  - Discovery – player discovers the cave, obstacles, and treasure that awaits.
+  - Power – the game is about finding the treasure, fighting your enemies and   
     emerging victorious through several battles.
 
 # Target Market
