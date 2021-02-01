@@ -118,6 +118,8 @@ The following are list of responses that the player may encounter during game pl
 //....Check for events
 //.....If exit found
 //......set flag to exit game loop
+//.....If wall found
+//......set flag to show player can't walk through walls
 //.....If treasure found
 //......set flag to show player has treasure
 //.....If weapon found
