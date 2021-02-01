@@ -131,3 +131,15 @@ Player finds treasure, game over
 ![Player Finds Treasure](https://raw.githubusercontent.com/kiddjsh/Treasure-Cave/main/images/Player%20Finds%20Treasure.PNG)
 
 
+# Version Control
+                                             
+Version      | Date          | Author        | Change Description |
+------------ | ------------- | ------------- | ------------------ |
+1.1          | JUL/09        | Joshua Kidder | Add variables      |          
+1.2          | JUL/16        | Joshua Kidder | Add two dimensional array, place treasure and monster in cave |
+1.3          | JUL/23        | Joshua Kidder | Add a second two dimensional array, add weapon, if found will kill monster, modify monster to move and guard treasure
+1.4          | JUL/30        | Joshua Kidder | Add blank space for each location, introduce a dark cave, add torch, add a cave exit, add noise maker to stop monster, add else clause (player moves back two spaces without weapon)
+1.5          | AUG/06        | Joshua Kidder | Clean up code using functions
+1.6          | AUG/13        | Joshua Kidder | Change combat results, change the win condition, add color text, 
+1.7          | AUG/20        | Joshua Kidder | Add new threat thief and object eye, add ability for thief to interact with player and monster, add ability for thief to find treasure
+1.8          | AUG/22        | Joshua Kidder | Bug fixes, Document updates
